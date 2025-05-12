@@ -1,29 +1,24 @@
-<h1 align="center">Hi 👋, I'm Francisco Bruginski</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+# Olá 👋
 
-<div align="center">
-  <a href="https://github.com/FranciscoLDB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoLDB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLDB&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Sobre mim
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+- Estudante do curso de **Bacharelado de Sistemas de Informação** na [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/) 🎓
+- Atualmente estou estudando **Back-end development** 📓
+- Fun fact: Eu gosto praticar esportes e de jogos 🎮
+- Movido pela curiosidade e pela emoção de resolver problemas difíceis. 🧩
 
-##
+## Linguagens de programação e Ferramentas:
 
-<h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/franciscoluisdunaiskibruginski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscoluisdunaiskibruginski" height="30" width="40" /></a>
-  <a href="https://instagram.com/franciscodunaiski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franciscodunaiski" height="30" width="40" /></a>
-</p>
+![Lista de conhecimentos em tecnologia, incluindo: GitHub, Azure, GIT, Figma, Java, Spring, HTML, CSS, Javascript, Typescript, Angular, Sass, C, C++, Unity, Bash e Linux](https://skillicons.dev/icons?i=github,azure,git,figma,java,spring,html,css,js,ts,angular,sass,c,cpp,unity,bash,linux&perline=14)
+
+## Certificações:
+
+- [AZ-900 - Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FRANCISCOLUISDUNAISKIBRUGINSKI-2894/171D7B62AFD25290?sharingId=E1A388A16810EB6B)
+- [DP-900 - Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FRANCISCOLUISDUNAISKIBRUGINSKI-2894/62C947E1DFC93319?sharingId=E1A388A16810EB6B)
+- [SC-900 - Security, Compliance and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FRANCISCOLUISDUNAISKIBRUGINSKI-2894/5583401F8C969D12?sharingId=E1A388A16810EB6B)
+- [AI-900 - Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FRANCISCOLUISDUNAISKIBRUGINSKI-2894/C03FE0198D2BD2D?sharingId=E1A388A16810EB6B)
+- [AZ-204 - Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/pt-br/FRANCISCOLUISDUNAISKIBRUGINSKI-2894/65351F074E55F9A5?sharingId=E1A388A16810EB6B)
+- [GitHub Foundations Certification](https://www.credly.com/badges/7834bc92-fe03-443f-8a36-f49ed500d282/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4de9670c-59c7-4c66-b25e-97d7dab04018/public_url)
+
+This README has been optimized for accessibility based on GitHub's Community post "[Tips for Making your GitHub Profile Page Accessible](https://github.com/community)". 
